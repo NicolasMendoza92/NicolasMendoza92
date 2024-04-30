@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Nico Mendoza
 
-<!--
-**NicolasMendoza92/NicolasMendoza92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 ⚙️  Industrial engineer & Full Stack Developer 🚀💻
 
-Here are some ideas to get you started:
+- ♥ I love to design and create projects, web apps and development work to make tasks easier ♥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m looking for a Job to apply the MERN stack.
+- 🌱 I’m currently learning Python in a <a href="https://www.udemy.com/course/100-days-of-code/?couponCode=ST2MT43024">bootcamp</a>.
+- 🛠️ I have done freelance work adapted for companies (<a href="https://allcot-inventary.vercel.app/">Inventory Managment</a> - <a href="https://coco-mad-react.vercel.app/">e-commerce</a>)
+- 💬 Here is my <a herf="https://nicolas-mendoza-cv.vercel.app/">portfolio</a>
+- 📫 How to reach me: nicomendoza.92@gmail.com
+- 😄 I love sports, playing tennis and I really enjoy watching anime. 
+
