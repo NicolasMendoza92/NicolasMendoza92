@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Nico Mendoza
 
-- 🔧 ⚙️  Industrial engineer & Full Stack Developer 🚀💻
-
-- ♥ I love to design and create projects, web apps and development work to make tasks easier ♥
+🔧 ⚙️  Industrial engineer & Full Stack Developer 🚀💻
+♥ I love to design and create projects, web apps and development work to make tasks easier ♥
 
 - 🔭 I’m looking for a Job to apply the MERN stack.
 - 🌱 I’m currently learning Python in a <a href="https://www.udemy.com/course/100-days-of-code/?couponCode=ST2MT43024">bootcamp</a>.
